@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.15f322be.css",
-    "main.js": "/static/js/main.475eb060.js",
+    "main.js": "/static/js/main.9d9a9b01.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.9125a747.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.9ea7fc89.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.f42562a6.chunk.js",
@@ -21,7 +21,7 @@
     "static/media/pc_main_01.jpg": "/static/media/pc_main_01.5124fe271fbe8ede8ea9.jpg",
     "index.html": "/index.html",
     "main.15f322be.css.map": "/static/css/main.15f322be.css.map",
-    "main.475eb060.js.map": "/static/js/main.475eb060.js.map",
+    "main.9d9a9b01.js.map": "/static/js/main.9d9a9b01.js.map",
     "reactPlayerYouTube.9125a747.chunk.js.map": "/static/js/reactPlayerYouTube.9125a747.chunk.js.map",
     "reactPlayerSoundCloud.9ea7fc89.chunk.js.map": "/static/js/reactPlayerSoundCloud.9ea7fc89.chunk.js.map",
     "reactPlayerVimeo.f42562a6.chunk.js.map": "/static/js/reactPlayerVimeo.f42562a6.chunk.js.map",
@@ -40,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.15f322be.css",
-    "static/js/main.475eb060.js"
+    "static/js/main.9d9a9b01.js"
   ]
 }
